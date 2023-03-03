@@ -7,4 +7,4 @@ if st.button('Giải'):
         result = -b/a
         st.success(f'Phương trình có một nghiệm {result}')
     else:
-        st.success(f'Phương trình vô nghiệm {result}')
+        st.success(f'Phương trình vô nghiệm')
